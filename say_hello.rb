@@ -3,5 +3,5 @@ def say_hello
 puts "Gabriela"
 end
 
-
+say_hello("Kent Beck")
 
